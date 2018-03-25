@@ -1,5 +1,7 @@
 # Change Log
 <pre>
+v2.0.0 Recompile with 7.1.0.GA, add `open` and `close` events, add `showsNumberOfCopies` and `showsPaperSelectionForLoadedPapers` parameters
+
 v1.4.3 	[MOD-2078] module not working in 3.5.0.GA
 
 v1.4.2 	Updated module
