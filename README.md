@@ -39,14 +39,14 @@ Returns whether or not the current device supports printing. Note that a printer
 
 ### Events
 
-- `open`
-- `close`
-- `select`
+- `open`: Called when the AirPrint dialog finished opening.
+- `close`: Called when the AirPrint dialog finished closing.
 
 ## Usage
 
-See example.
+See the example in `ios/example/app.js`.
 
 ## License
 
-Copyright(c) 2010-present by Appcelerator, Inc. All Rights Reserved. Please see the LICENSE file included in the distribution for further details.
+Copyright(c) 2010-present by Appcelerator, Inc. All Rights Reserved. 
+Please see the LICENSE file included in the distribution for further details.
